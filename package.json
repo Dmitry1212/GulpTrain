@@ -1,0 +1,27 @@
+{
+  "name": "gulplesson",
+  "version": "1.0.0",
+  "description": "trying to use Gulp for compile any project",
+  "main": "index.js",
+  "scripts": {
+    "gulp": "gulp",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Shamaev Dmitry",
+  "license": "ISC",
+  "devDependencies": {
+    "browser-sync": "^2.24.6",
+    "del": "^3.0.0",
+    "gulp": "^3.9.1",
+    "gulp-concat": "^2.6.1",
+    "gulp-imagemin": "^4.1.0",
+    "gulp-sass": "^4.0.1",
+    "gulp-uglifyjs": "^0.6.2",
+    "gulp-uncss": "^1.0.6",
+    "gulp-useref": "^3.1.5",
+    "imagemin": "^6.0.0",
+    "imagemin-jpegtran": "^5.0.2",
+    "p": "^0.2.0"
+  },
+  "dependencies": {}
+}

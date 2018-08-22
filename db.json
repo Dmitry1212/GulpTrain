@@ -1,0 +1,71 @@
+{
+  "goods": [
+    {
+      "id": 1,
+      "name": "Трусы",
+      "price": 100
+    },
+    {
+      "id": 2,
+      "name": "Носки",
+      "price": 300
+    },
+    {
+      "id": 3,
+      "name": "Перчатки",
+      "price": 500
+    }
+  ],
+  "cart": [
+    {
+      "id": "2",
+      "price": "300",
+      "name": "Носки",
+      "quantity": "2"
+    },
+    {
+      "id": "1",
+      "price": "100",
+      "name": "Трусы",
+      "quantity": "1"
+    },
+    {
+      "id": "3",
+      "price": "500",
+      "name": "Перчатки",
+      "quantity": "2"
+    }
+  ],
+  "comments": [
+    {
+      "text": " хороший сайт",
+      "id": 3,
+      "accepted": true
+    },
+    {
+      "text": " хороший сайт",
+      "id": 4,
+      "accepted": false
+    },
+    {
+      "id": "5",
+      "text": "fghfgh",
+      "accepted": false
+    },
+    {
+      "id": "6",
+      "text": "tyuty",
+      "accepted": false
+    },
+    {
+      "id": "7",
+      "text": "nkljkljk",
+      "accepted": false
+    },
+    {
+      "id": "8",
+      "text": "tyutyu",
+      "accepted": "false"
+    }
+  ]
+}
